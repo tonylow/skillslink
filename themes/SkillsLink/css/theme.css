@@ -11,15 +11,15 @@
 }
 
 .colorPrimary {
-	color: #8000ff !important
+	color: #4f239d !important
 }
 
 .backgroundPrimary {
-	background: #8000ff !important
+	background: #4f239d !important
 }
 
 .borderPrimary {
-	border-color: #8000ff!important
+	border-color: #4f239d!important
 }
 
 .colorInfo {
@@ -145,7 +145,7 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 .login-container {
-	background: #8000ff;
+	background: #4f239d;
 	padding-top: 40px
 }
 
@@ -235,7 +235,7 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 #topbar-first {
-	background-color: #8000ff;
+	background-color: #4f239d;
 	top: 0;
 	z-index: 1030;
 	color: #fff
@@ -435,7 +435,7 @@ input[type=text], input[type=password], input[type=select] {
 #topbar-first .dropdown.account>a, #topbar-first .dropdown.account.open>a,
 	#topbar-first .dropdown.account>a:hover, #topbar-first .dropdown.account.open>a:hover
 	{
-	background-color: #8000ff
+	background-color: #4f239d
 }
 
 #topbar-second {
@@ -936,8 +936,8 @@ input[type=text], input[type=password], input[type=select] {
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover,
 	.pagination>.active>span:hover, .pagination>.active>a:focus,
 	.pagination>.active>span:focus {
-	background-color: #8000ff;
-	border-color: #8000ff
+	background-color: #4f239d;
+	border-color: #4f239d
 }
 
 .pagination>li>a, .pagination>li>span, .pagination>li>a:hover,
@@ -974,7 +974,7 @@ input[type=text], input[type=password], input[type=select] {
 
 .nav-pills .dropdown-menu, .nav-tabs .dropdown-menu, .account .dropdown-menu
 	{
-	background-color: #8000ff;
+	background-color: #4f239d;
 	border: none
 }
 
@@ -987,7 +987,7 @@ input[type=text], input[type=password], input[type=select] {
 
 .nav-pills .dropdown-menu li, .nav-tabs .dropdown-menu li, .account .dropdown-menu li
 	{
-	border-left: 3px solid #8000ff
+	border-left: 3px solid #4f239d
 }
 
 .nav-pills .dropdown-menu li a, .nav-tabs .dropdown-menu li a, .account .dropdown-menu li a
@@ -1031,7 +1031,7 @@ input[type=text], input[type=password], input[type=select] {
 
 .nav-pills.preferences .dropdown.open .dropdown-toggle, .nav-pills.preferences .dropdown.open .dropdown-toggle:hover
 	{
-	background-color: #8000ff
+	background-color: #4f239d
 }
 
 .popover {
@@ -1067,7 +1067,7 @@ input[type=text], input[type=password], input[type=select] {
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus
 	{
-	background-color: #8000ff
+	background-color: #4f239d
 }
 
 .nav-tabs {
@@ -1211,7 +1211,7 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 .btn-primary {
-	background: #8000ff;
+	background: #4f239d;
 	color: #fff !important
 }
 
@@ -1675,7 +1675,7 @@ a.list-group-item:hover, a.list-group-item.active, a.list-group-item.active:hove
 }
 
 .ekko-lightbox-nav-overlay a, .ekko-lightbox-nav-overlay a:hover {
-	color: #8000ff
+	color: #4f239d
 }
 
 .progress {
@@ -1693,7 +1693,7 @@ a.list-group-item:hover, a.list-group-item.active, a.list-group-item.active:hove
 }
 
 .tooltip-inner {
-	background-color: #8000ff;
+	background-color: #4f239d;
 	max-width: 400px;
 	text-align: left;
 	font-weight: 300;
@@ -1702,35 +1702,35 @@ a.list-group-item:hover, a.list-group-item.active, a.list-group-item.active:hove
 }
 
 .tooltip.top .tooltip-arrow {
-	border-top-color: #8000ff
+	border-top-color: #4f239d
 }
 
 .tooltip.top-left .tooltip-arrow {
-	border-top-color: #8000ff
+	border-top-color: #4f239d
 }
 
 .tooltip.top-right .tooltip-arrow {
-	border-top-color: #8000ff
+	border-top-color: #4f239d
 }
 
 .tooltip.right .tooltip-arrow {
-	border-right-color: #8000ff
+	border-right-color: #4f239d
 }
 
 .tooltip.left .tooltip-arrow {
-	border-left-color: #8000ff
+	border-left-color: #4f239d
 }
 
 .tooltip.bottom .tooltip-arrow {
-	border-bottom-color: #8000ff
+	border-bottom-color: #4f239d
 }
 
 .tooltip.bottom-left .tooltip-arrow {
-	border-bottom-color: #8000ff
+	border-bottom-color: #4f239d
 }
 
 .tooltip.bottom-right .tooltip-arrow {
-	border-bottom-color: #8000ff
+	border-bottom-color: #4f239d
 }
 
 .tooltip.in {
