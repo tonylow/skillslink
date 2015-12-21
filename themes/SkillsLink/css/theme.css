@@ -388,11 +388,11 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 #topbar-first .btn-group>a {
-	background-color: #7f9baa
+	background-color: #4f239d
 }
 
 #topbar-first .btn-enter {
-	background-color: #7f9baa;
+	background-color: #4f239d;
 	margin: 6px 0
 }
 
@@ -1226,17 +1226,17 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 .btn-primary[disabled], .btn-primary.disabled {
-	background: #7f9baa
+	background: #4f239d
 }
 
 .btn-primary[disabled]:hover, .btn-primary.disabled:hover, .btn-primary[disabled]:focus,
 	.btn-primary.disabled:focus {
-	background: #7f9baa
+	background: #4f239d
 }
 
 .btn-primary[disabled]:active, .btn-primary.disabled:active,
 	.btn-primary[disabled].active, .btn-primary.disabled.active {
-	background: #7f9baa !important
+	background: #4f239d !important
 }
 
 .btn-info {
@@ -1245,13 +1245,13 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 .btn-info:hover, .btn-info:focus {
-	background: #59d6e4 !important;
+	background: #8C489F !important;
 	text-decoration: none
 }
 
 .btn-info:active, .btn-info.active {
 	outline: 0;
-	background: #59d6e4
+	background: #8C489F
 }
 
 .btn-info[disabled], .btn-info.disabled {
@@ -1459,7 +1459,7 @@ a.label-default:hover {
 }
 
 a.label-info:hover {
-	background: #59d6e4 !important
+	background: #8C489F !important
 }
 
 .label-danger {
@@ -1475,7 +1475,7 @@ a.label-danger:hover {
 }
 
 a.label-success:hover {
-	background: #59d6e4 !important
+	background: #8C489F !important
 }
 
 .label-warning {
