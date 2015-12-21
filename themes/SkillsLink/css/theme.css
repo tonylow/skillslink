@@ -980,7 +980,7 @@ input[type=text], input[type=password], input[type=select] {
 
 .nav-pills .dropdown-menu li.divider, .nav-tabs .dropdown-menu li.divider,
 	.account .dropdown-menu li.divider {
-	background-color: #628394;
+	background-color: #ffffff;
 	border-bottom: none;
 	margin: 9px 1px !important
 }
@@ -1022,7 +1022,7 @@ input[type=text], input[type=password], input[type=select] {
 	{
 	border-left: 3px solid #6fdbe8;
 	color: #fff !important;
-	background-color: #628394 !important
+	background-color: #ffffff !important
 }
 
 .nav-pills.preferences .dropdown .dropdown-toggle {
@@ -1216,13 +1216,13 @@ input[type=text], input[type=password], input[type=select] {
 }
 
 .btn-primary:hover, .btn-primary:focus {
-	background: #628394;
+	background: #ffffff;
 	text-decoration: none
 }
 
 .btn-primary:active, .btn-primary.active {
 	outline: 0;
-	background: #628394 !important
+	background: #ffffff !important
 }
 
 .btn-primary[disabled], .btn-primary.disabled {
